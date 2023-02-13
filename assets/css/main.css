@@ -97,7 +97,7 @@ input, select, textarea {
 			transition: none !important;
 		}
 
-	h1, p {
+	h1 {
 		color: #000;
 	}
 		body, input, select, textarea {
@@ -107,6 +107,14 @@ input, select, textarea {
 		font-weight: 300 !important;
 		letter-spacing: -0.025em;
 		line-height: 1.75em;
+	}
+	p {
+		color: #000;
+		font-family: 'Source Sans Pro', sans-serif;
+		font-size: 30pt;
+		font-weight: 350 !important;
+		letter-spacing: -0.025em;
+		line-height: 3em;
 	}
 
 	a {
@@ -563,7 +571,7 @@ input, select, textarea {
 		}
 
 		#header p {
-			font-size: 1.25em;
+			font-size: 1.5em;
 			margin: 0.75em 0 0.25em 0;
 			opacity: 0.75;
 		}
@@ -985,7 +993,7 @@ input, select, textarea {
 		}
 
 		#header p {
-			font-size: 1em;
+			font-size: 2em;
 		}
 
 		#header nav {
